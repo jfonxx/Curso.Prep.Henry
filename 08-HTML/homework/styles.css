@@ -1,0 +1,36 @@
+html{
+			background-image: url("https://www.todofondos.net/wp-content/uploads/303-fondos-de-pantalla-4k-ultra-hd-de-colores-imagenes-de-fondo.-wallpaper-de-colores-768x576.jpg");
+			}
+				h1{
+			color: gold ;
+		}
+		h3{
+			color: white;
+		}
+		img{
+			max-width: 400px ;
+		}
+		#thirdDiv{
+			height: 600px ;
+			width: 500px ;
+			background: red;
+			padding: 50px;
+			border: 5px dotted greenyellow ;
+			
+
+		}
+		.spanId{
+			font-size: 18px ;
+			margin: 50px ;
+
+		}
+		.divClass{
+			text-align: center;
+		}
+		.container{
+			border: 10px;
+			height: 100vh;
+			display: flex;
+			justify-content: center;
+		}
+		
